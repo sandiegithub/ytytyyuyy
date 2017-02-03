@@ -1,0 +1,28 @@
+/*-------------- margin and paddings ----------------------------*/
+.m-t-n{margin-top:-5px;}
+.m-b{margin-bottom:5px;}
+.m-b-lg{margin-bottom:20px;}
+
+
+.textReadonly{color:#69AA46; font-weight:500;}
+.orderResult .form-group{padding-bottom:10px !important;}
+.form-actions-mar{margin:20px -12px 0 -12px;}
+.found{
+   color:#ff5500;
+   font-size: 15px;
+   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.Search{
+     margin-top: -24px;  
+    margin-right: 29%;
+}
+.Form{
+        margin-top: -24px;
+}
+.select{
+    margin-right:4px;
+}
+[ng-cloak] {
+    display:none !important;
+
+}
